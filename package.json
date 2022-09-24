@@ -1,0 +1,21 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "learnong using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "kate",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
